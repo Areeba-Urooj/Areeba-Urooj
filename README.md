@@ -9,7 +9,7 @@ I'm a Cloud DevOps professional passionate about automation, cloud infrastructur
 ### Cloud & Infrastructure
 - ☁️ Advanced experience with Amazon Web Services (AWS)
 - 🛠️ Proficient in key AWS services:
-  - Compute: EC2, Lambda Functions, Elastic Beanstalk
+  - Compute: EC2,ECS,Route 53, Lambda Functions, Elastic Beanstalk, CloudFormation
   - Containers: ECR, EKS
   - Database service: RDS, DynamoDB
   - Networking: VPC, CloudFront, Load Balancer
