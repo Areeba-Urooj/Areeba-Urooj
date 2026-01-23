@@ -35,9 +35,14 @@ I specialize in **LLM-powered pipelines**, **event-driven automation**, and **co
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,bash,python,git,github,githubactions,terraform,ansible,nginx,mysql&perline=12" />
-</p>
+🤖 AIOps · AI Automation · LLMs
+<p align="left"> <!-- n8n --> <img src="https://cdn.simpleicons.org/n8n/FF6D00" width="48" height="48" title="n8n" /> <!-- WordPress --> <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" title="WordPress Automation" /> <!-- OpenAI --> <!-- Ollama --> <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" title="Ollama (Local LLMs)" /> </p>
+☁️ Cloud · DevOps · Infrastructure
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,linux,terraform,ansible,nginx&perline=8" /> </p>
+⚙️ Automation · CI/CD · Tooling
+<p align="left"> <img src="https://skillicons.dev/icons?i=github,githubactions,git,python,bash,yaml&perline=6" /> </p>
+🔍 Observability · Reliability
+<p align="left"> <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=6" /> </p>
 
 ---
 
@@ -67,3 +72,4 @@ I specialize in **LLM-powered pipelines**, **event-driven automation**, and **co
 - Technical writing & knowledge sharing  
 
 📫 **Email: areeba@8mh3q6.onmicrosoft.com**
+
