@@ -20,7 +20,7 @@ Transitioned from <b>DevOps</b> to <b>AIOps</b>, I design and automate <b>AI-dri
   <a href="https://github.com/Areeba-Urooj">
     <img src="https://img.shields.io/github/followers/Areeba-Urooj?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/areeba-urooj-8a1606279/">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Urooj-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -89,3 +89,6 @@ Transitioned from <b>DevOps</b> to <b>AIOps</b>, I design and automate <b>AI-dri
     width="820"
   />
 </div>
+
+</div>
+
