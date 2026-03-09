@@ -71,5 +71,6 @@ I specialize in **LLM-powered pipelines**, **event-driven automation**, and **co
 - Cloud automation & DevOps consulting  
 - Technical writing & knowledge sharing  
 
-📫 **Email: areeba@8mh3q6.onmicrosoft.com**
+📫 **Email: cmy61677@gmail.com**
+
 
